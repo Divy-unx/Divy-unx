@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Divyanshu Mishra</h1>
+<h1 align="center">System > Syntax</h1>
 
 <h3 align="center">
 Java Backend Developer • Backend Engineering Enthusiast • Building Scalable Systems
