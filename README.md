@@ -204,7 +204,7 @@ while(!success){
 [www.linkedin.com/in/divyanshu-mishra-09b036345/](http://www.linkedin.com/in/divyanshu-mishra-09b036345/)
 
 🐙 GitHub:
-github.com/Divy-unx
+[github.com/Divy-unx](https://github.com/Divy-unx)
 
 ---
 
