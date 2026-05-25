@@ -193,13 +193,6 @@ while(!success){
 
 ---
 
-## 💻 Competitive Profile
-
-```yaml
-Class 10: 86%
-Class 12: 78%
-CGPA: 8.57
-```
 
 ---
 
