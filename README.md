@@ -1,7 +1,7 @@
 <h1 align="center">System > Syntax</h1>
 
 <h3 align="center">
-Java Backend Developer • Backend Engineering Enthusiast • Building Scalable Systems
+Java Backend Developer • Backend Engineering Enthusiast • Cloud Computing
 </h3>
 
 <p align="center">
@@ -77,6 +77,13 @@ Git
 GitHub
 Maven
 Postman
+```
+
+### Deployment
+
+```text
+Docker
+Kubernetes
 ```
 
 ---
